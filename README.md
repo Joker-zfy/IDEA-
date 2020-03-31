@@ -44,5 +44,9 @@ settings————Project Structure—————Artifacts——————A
  
  #6
  maven：项目开发和管理工具（maven.apache.org）
+ (待补充)
+ #7
+ users目录下用户名为中文是无法Debug的，解决方法（暂定可行）：在settings中的Build,Execution,...目录下找到Debugger下的Asysnc...并不勾选第一项即可。
+ 
  
 
